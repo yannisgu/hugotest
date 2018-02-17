@@ -1,8 +1,7 @@
 ---
-title: "My First Post"
-date: 2018-02-17T16:23:07+01:00
+title: My First Post
+date: 2018-02-17T15:23:07.000Z
 ---
-
 # Hello
 
 lala
@@ -10,5 +9,14 @@ lala
 {{< hero class="hello2">}}<p>Hello <strong>World!</strong></p>{{< /hero >}}
 asdf asasdfasdfasdfasdf
 
-
 asdfasdf
+
+
+
+asdf 
+
+aasdf
+
+asdfa
+
+sdf
