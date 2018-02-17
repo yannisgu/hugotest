@@ -8,4 +8,4 @@ date: 2018-02-17T16:23:07+01:00
 lala
 
 {{< hero class="hello2">}}<p>Hello <strong>World!</strong></p>{{< /hero >}}
-
+asdf asasdfasdfasdfasdf
